@@ -1,0 +1,81 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Ir ao supermercado",
+      "categoria": "Casa",
+      "statusFinalizado": true,
+      "prioridade": "Baixa"
+    },
+    {
+      "id": 2,
+      "descricao": "Estudar sobre acessibilidade",
+      "categoria": "Trabalho",
+      "statusFinalizado": false,
+      "prioridade": "Normal"
+    },
+    {
+      "id": 4,
+      "descricao": "Preencher formulário de inscrição",
+      "categoria": "Estudos",
+      "statusFinalizado": false,
+      "prioridade": "Normal"
+    },
+    {
+      "id": 5,
+      "descricao": "Trocar lâmpada",
+      "categoria": "Casa",
+      "statusFinalizado": true,
+      "prioridade": "Alta"
+    },
+    {
+      "id": 6,
+      "descricao": "Ler",
+      "statusFinalizado": true,
+      "categoria": "Estudos",
+      "prioridade": "Alta"
+    },
+    {
+      "id": 7,
+      "descricao": "asdas",
+      "statusFinalizado": true,
+      "categoria": "Casa",
+      "prioridade": "Alta"
+    },
+    {
+      "id": 8,
+      "descricao": "Limpar o Quintal",
+      "statusFinalizado": false,
+      "categoria": "Casa",
+      "prioridade": "Normal"
+    },
+    {
+      "id": 9,
+      "descricao": "Terminar testes e2e cypress",
+      "statusFinalizado": false,
+      "categoria": "Trabalho",
+      "prioridade": "Alta"
+    },
+    {
+      "id": 10,
+      "descricao": "Terminar meus cursos na alura",
+      "statusFinalizado": true,
+      "categoria": "Estudos",
+      "prioridade": "Normal"
+    },
+    {
+      "id": 11,
+      "descricao": "sdf",
+      "statusFinalizado": true,
+      "categoria": "Trabalho",
+      "prioridade": "Normal"
+    },
+    {
+      "id": 12,
+      "descricao": "sdfsdf",
+      "categoria": "Casa",
+      "statusFinalizado": true,
+      "prioridade": "Alta"
+    }
+  ]
+}
